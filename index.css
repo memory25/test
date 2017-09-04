@@ -1,0 +1,22 @@
+
+html {
+    font-size: 62.5%;
+}
+
+
+
+
+.introduceMain {
+	width: 80%;
+	display: table;
+	table-layout: fixed;
+}
+
+.mainBox {
+	width: 100%;
+	display: table-cell;
+	font-size: 1.8rem;
+}
+
+
+/*--介紹結束--*/
